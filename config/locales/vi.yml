@@ -1,0 +1,30 @@
+vi:
+  layouts:
+    header:
+      home: "Trang chủ"
+      help: "Trợ giúp"
+      sample_app: "app mẫu"
+      log_in: "Đăng nhập"
+    footer:
+      about: "Giới thiệu"
+      contact: "Liên hệ"
+      the: "Tài liệu"
+      ruby_tutorial: "hướng dẫn Ruby on Rails"
+      michael_hartl: "của Michael Hartl"
+      news: "Tin tức"
+  static_pages:
+    contact:
+      contact: "Liên hệ"
+      text: "Liên hệ với Hướng dẫn của Ruby on Rails về ứng dụng mẫu tại"
+      contact_page: "Trang liên hệ"
+    home:
+      sign_up_now: "Đăng nhập ngay"
+      r_logo: "Rails logo"
+      welcome: "Chào mừng bạn, đây là app mẫu!"
+      location: "Đây là trang chủ của"
+      ruby_tutorial: "tài liệu hướng dẫn Ruby on Rails"
+      text: "về ứng dụng mẫu"
+  users:
+    new:
+      user_new: "Users#new"
+      find: "Trang này được tìm thấy tại app/views/users/new.html.erb"
