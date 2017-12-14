@@ -30,4 +30,32 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  layouts:
+    header:
+      home: "Home"
+      help: "Help"
+      sample_app: "Sample app"
+      log_in: "Log in"
+    footer:
+      about: "About"
+      contact: "Contact"
+      the: "The"
+      ruby_tutorial: "Ruby on Rails Tutorial"
+      michael_hartl: "Michael Hartl"
+      news: "News"
+  static_pages:
+    contact:
+      contact: "Contact"
+      text: "Contact the Ruby on Rails Tutorial about the sample app at the"
+      contact_page: "Contact page"
+    home:
+      sign_up_now: "Sign up now!"
+      r_logo: "Rails logo"
+      welcome: "Welcome to to the Sample App!"
+      location: "This is the home page for the"
+      ruby_tutorial: "Ruby on Rails Tutorial"
+      text: "sample application."
+  users:
+    new:
+      user_new: "Users#new"
+      find: "Find me in app/views/users/new.html.erb"
